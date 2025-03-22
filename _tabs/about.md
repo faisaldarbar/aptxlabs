@@ -4,30 +4,24 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-![Faisal Darbar](/images/howdy.png)
 
-# About Me  
+![AptX Labs](/images/howdy.png)  
 
-🚀 Exceptional Business Professional, IT, Networking and Software Consultant, Accounting and Taxation Enthusiast, Web Developer, Microsoft Certified, Cloud Explorer, Homelab Hobbyist, Coding Deep Diver, Videographer and Content Creator
+# **About AptX Labs**  
 
-I’m passionate about **technology, coding, and creative problem-solving**. Here, you’ll find my thoughts, experiments, and experiences across:  
+🚀 **Innovative IT Solutions, Software Development & Business Consulting**  
 
-- 🖥 **IT Infrastructure and Networking**
-- 💻 **Software Development and Web Solutions**
-- ☁️ **Cloud Computing and Automation**
-- 📊 **Business Accounting and Taxation**
-- 🎥 **Videography and Content Creation**
+At **AptX Labs**, we are passionate about leveraging technology to **optimize businesses, drive innovation, and create impactful digital solutions**. Our expertise spans across:  
 
-This space is for sharing, learning, and growing. If you're curious about any of these, stick around!  
+- 🖥 **IT Infrastructure & Networking** – Secure, scalable, and high-performance systems  
+- 💻 **Software & Web Development** – Custom-built applications and digital experiences  
+- ☁️ **Cloud Computing & Automation** – Streamlining operations for efficiency  
+- 📊 **Business & Tax Consulting** – Data-driven strategies for financial success  
+- 🎥 **Media & Content Creation** – Engaging storytelling through video & design  
 
-🚀 Stay curious, keep building, and have fun along the way.
+We believe in **continuous learning, innovation, and collaboration**. Whether you're looking to **enhance your IT infrastructure, build custom software, or streamline your business processes**, AptX Labs is here to help.  
 
+---
 
-### CERTIFICATIONS & BADGES
-
-<div style="width: 150px; float:left; height:270px; margin:10px">
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="09e8f0b2-8657-43ec-bf6b-fe0ec8e52fed" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</div>
-<div style="width: 150px; float:left; height:270px; margin:10px">
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="21fbb61a-6145-48fc-947b-08638bdfcb4b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</div>
+### **Want to Collaborate?**  
+🚀 **Let’s build something great together.** Contact us today!
