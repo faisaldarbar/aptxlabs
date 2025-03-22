@@ -7,8 +7,6 @@ order: 1
 
 ![AptX Labs](/images/howdy.png)  
 
-🚀 **Innovative IT Solutions, Software Development & Business Consulting**  
-
 At **AptX Labs**, we are passionate about leveraging technology to **optimize businesses, drive innovation, and create impactful digital solutions**. Our expertise spans across:  
 
 - 🖥 **IT Infrastructure & Networking** – Secure, scalable, and high-performance systems  
