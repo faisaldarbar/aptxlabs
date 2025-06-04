@@ -7,7 +7,7 @@ order: 1
 
 ![AptX Labs](/images/howdy.png)  
 
-At **AptX Labs**, we are passionate about leveraging technology to **optimize businesses, drive innovation, and create impactful digital solutions**. Our expertise spans across:  
+At **Aptxlabs**, we are passionate about leveraging technology to **optimize businesses, drive innovation, and create impactful digital solutions**. Our expertise spans across:  
 
 - 🖥 **IT Infrastructure & Networking** – Secure, scalable, and high-performance systems  
 - 💻 **Software & Web Development** – Custom-built applications and digital experiences  
@@ -15,7 +15,7 @@ At **AptX Labs**, we are passionate about leveraging technology to **optimize bu
 - 📊 **Business & Tax Consulting** – Data-driven strategies for financial success  
 - 🎥 **Media & Content Creation** – Engaging storytelling through video & design  
 
-We believe in **continuous learning, innovation, and collaboration**. Whether you're looking to **enhance your IT infrastructure, build custom software, or streamline your business processes**, AptX Labs is here to help.  
+We believe in **continuous learning, innovation, and collaboration**. Whether you're looking to **enhance your IT infrastructure, build custom software, or streamline your business processes**, Aptxlabs is here to help.  
 
 ---
 
