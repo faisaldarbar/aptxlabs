@@ -9,12 +9,6 @@ image: /images/pve-zfs-to-ext4.png
 ---
 
 
-
-
-# Rebuilding My Homelab: Transitioning from ZFS to EXT4 on Proxmox VE
-
-## Introduction
-
 I have a Lenovo ThinkStation P3 Tiny that serves as my starter homelab machine. It’s compact but decently powered with:
 
 - **2 NICs** with 5 ports

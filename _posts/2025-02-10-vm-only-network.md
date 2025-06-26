@@ -9,11 +9,6 @@ image: /images/vm-only-network.jpg
 ---
 
 
-
-
-# Setting Up a VM-Only Network (VMLAN) with pfSense on Proxmox
-
-## Introduction
 In this guide, I will walk through the steps to set up a dedicated VM-only network (VMLAN) using **pfSense** as the router on **Proxmox**. This setup allows VMs to have their own subnet while being managed by pfSense for DHCP, firewall rules, and potential VLAN segmentation in the future.
 
 ---

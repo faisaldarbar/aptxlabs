@@ -9,11 +9,6 @@ image: /images/proxmox-host.png
 ---
 
 
-
-# My Proxmox Virtual Environnment Installation and Secure Configuration Guide
-
-## Introduction
-
 No need to back up your Proxmox host. Always do a fresh install and fresh configuration using this documentation, as it provides a cleaner option for setup. It's crucial to document everything for future reference, ensuring consistency and security with each installation.
 
 ---

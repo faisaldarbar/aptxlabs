@@ -9,11 +9,7 @@ image: /images/github-pages-deploy-v3-depracation.png
 ---
 
 
-
-
-## **GitHub Pages Deploy Fix after v3 Artifact Actions Deprecation**
-
-Recently fixed my GitHub Pages workflow for the **Chirpy Jekyll Theme** after encountering a build failure. This issue was caused by the **deprecation of `actions/upload-artifact v3`**, which GitHub announced w.e.f. January 30, 2025.
+I recently fixed my GitHub Pages workflow for the **Chirpy Jekyll Theme** after encountering a build failure. This issue was caused by the **deprecation of `actions/upload-artifact v3`**, which GitHub announced w.e.f. January 30, 2025.
 
 ### **1. Updated Action Versions**
 To stay up to date, I updated my actions to the latest versions:

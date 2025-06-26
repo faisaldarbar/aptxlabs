@@ -9,9 +9,6 @@ image: /images/pfsense-vm.png
 ---
 
 
-
-# Setting Up pfSense and Network Configuration for Proxmox
-
 This guide documents the step-by-step process I followed to set up pfSense in a virtualized environment using Proxmox, configure a TP-Link router as an access point, and extend the network with another TP-Link router in range extender mode. This document is intended for future reference or anyone attempting a similar setup.
 
 ---

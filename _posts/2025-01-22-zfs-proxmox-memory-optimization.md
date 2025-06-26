@@ -9,9 +9,6 @@ image: /images/zfs-proxmox-memory-issue.png
 ---
 
 
-
-# Optimizing ZFS for Efficient Memory Usage in Proxmox
-
 In this post, I will share my experience with **optimizing ZFS** on **Proxmox**, specifically how I reduced memory consumption caused by ZFS's **ARC (Adaptive Replacement Cache)**. ZFS is an advanced file system known for its data integrity and scalability, but its memory requirements can sometimes be too high, especially when running on machines with limited RAM. 
 
 I’ll show you how to manage this effectively to prevent ZFS from consuming too much memory, allowing you to run **virtual machines (VMs)** like **pfSense** more efficiently.

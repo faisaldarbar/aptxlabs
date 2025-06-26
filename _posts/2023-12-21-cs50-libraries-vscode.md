@@ -9,11 +9,7 @@ image: /images/libcs50.png
 ---
 
 
-# Inclusion of CS50 Libraries in Visual Studio Code
-(Works on Debian 12)
-
-## Introduction
-Setting up a C development environment on Linux with essential tools like VS Code, GCC, C/C++ extension, and Code Runner extension is crucial for effective programming. This guide focuses on seamlessly incorporating the CS50 libraries into VS Code to enhance your C programming experience.
+Setting up a C development environment on Linux with essential tools like VS Code, GCC, C/C++ extension, and Code Runner extension is crucial for effective programming. This guide focuses on seamlessly incorporating the CS50 libraries into VS Code to enhance your C programming experience. (Works on Debian 12)
 
 ## Step-by-Step Guide:
 

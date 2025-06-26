@@ -9,10 +9,6 @@ image: /images/ubuntu-dual-boot-bcedit-fix.jpg
 ---
 
 
-
-
-# Ubuntu Default Boot: BCDEDIT Fix
-
 If you've installed Ubuntu alongside Windows in a dual-boot setup and find that your system **always boots into Windows**, or you want to **set Ubuntu as the default**, this guide will help you fix it using `bcdedit` in Windows.
 
 ## **Issue: Ubuntu Not Showing in Boot Menu**

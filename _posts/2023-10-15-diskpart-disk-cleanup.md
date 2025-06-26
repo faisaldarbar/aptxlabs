@@ -8,7 +8,6 @@ tags: [windows, diskpart, format, cleanup]
 image: /images/diskpart.png
 ---
 
-# How to Format and Clean Up a Disk Completely Using Diskpart
 
 Diskpart is a powerful command-line utility in Windows for managing disks and partitions. If you need to completely format and clean up a disk using Diskpart, follow these steps carefully, as these operations can result in data loss.
 

@@ -8,9 +8,6 @@ tags: [linux, debian, security, desktop, flatpak, ufw, firewall, clamav]
 image: /images/debian12.png
 ---
 
-# My Debian 12 Desktop Setup and Security Guide
-
-## Introduction
 
 In this blog post, I will walk you through the steps I took to set up my Debian 12 Desktop with a focus on security and essential configurations. I've also included resources that helped me along the way, and I'll give credit to those who deserve it. Let's get started!
 

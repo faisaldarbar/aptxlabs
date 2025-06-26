@@ -8,9 +8,6 @@ tags: [linux, debian, rclone]
 image: /images/rclone.png
 ---
 
-# Mounting OneDrive in Debian 12 Using rclone
-
-## Introduction
 
 Looking to seamlessly integrate your OneDrive with Debian? With the help of rclone, accessing and managing your OneDrive files becomes a breeze. This tutorial will walk you through the steps required to set up and mount your OneDrive storage on Debian. Say goodbye to cumbersome file transfers - let's streamline your cloud storage experience!
 

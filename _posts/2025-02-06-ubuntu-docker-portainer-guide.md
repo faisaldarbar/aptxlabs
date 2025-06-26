@@ -9,9 +9,6 @@ image: /images/ubuntu-docker-portainer.png
 ---
 
 
-
-# Setting Up Ubuntu Server with Docker and Portainer: A Complete Guide
-
 In this comprehensive guide, we'll walk through the steps to set up an Ubuntu Server VM, configure networking with pfSense, and install Docker and Portainer for container management. We'll also highlight issues encountered during the setup process and how they were resolved.
 
 ---

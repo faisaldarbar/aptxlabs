@@ -9,11 +9,6 @@ image: /images/proxmox-backup-server.png
 ---
 
 
-
-# **My Proxmox Backup Server (PBS) Installation and Secure Configuration Guide**  
-
-## **Introduction**  
-
 Just like with Proxmox VE, I prefer a fresh installation and configuration of Proxmox Backup Server (PBS) for a clean and consistent setup. While I would back it up if possible, PBS requires that the machine be either stopped or suspended for backup, meaning it may not be able to back itself up. However, I’ve heard that one could have another instance of PBS to back up the first.  
 
 Given this, documenting the entire process ensures reproducibility, security, and stability for each installation.  

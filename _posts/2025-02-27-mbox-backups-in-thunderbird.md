@@ -9,11 +9,6 @@ image: /images/mbox-backups-in-thunderbird.png
 ---
 
 
-
-
-# A Complete Guide to MBOX Backups in Thunderbird
-
-## Introduction
 Backing up your emails is essential, especially when using IMAP-based email services like Microsoft 365 (M365) and Zoho Mail. Since M365 does not provide access to emails once your subscription ends, and Zoho Mail may have similar restrictions, MBOX backups are a reliable way to store and access your emails offline.
 
 ### This guide covers:
