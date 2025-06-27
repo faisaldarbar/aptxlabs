@@ -3,7 +3,7 @@ layout: post
 title: "Ubuntu Docker Portatiner Guide"
 subtitle: "My Ubuntu Server Docker Portainer Installation and Secure Configuration Guide"
 date: 2025-02-06 01:00:00 +0530
-categories: [Docker]
+categories: [Homelab, Docker]
 tags: [ubuntu, docker, portainer]
 image: /images/ubuntu-docker-portainer.png
 ---

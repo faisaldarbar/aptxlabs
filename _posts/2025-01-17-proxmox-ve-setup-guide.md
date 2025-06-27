@@ -3,7 +3,7 @@ layout: post
 title: "Proxmox Virtual Environnment"
 subtitle: "My Proxmox Virtual Environnment Installation and Secure Configuration Guide"
 date: 2025-01-17 01:00:00 +0530
-categories: [Proxmox]
+categories: [Homelab, Proxmox]
 tags: [proxmox, hypervisor, virtualization]
 image: /images/proxmox-host.png
 ---
