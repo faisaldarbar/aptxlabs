@@ -14,9 +14,27 @@ At **Aptxlabs**, we are passionate about leveraging technology to **optimize bus
 - 📊 **Business & Tax Consulting** – Data-driven strategies for financial success  
 - 🎥 **Media & Content Creation** – Engaging storytelling through video & design  
 
-We believe in **continuous learning, innovation, and collaboration**. Whether you're looking to **enhance your IT infrastructure, build custom software, or streamline your business processes**, Aptxlabs is here to help.  
+We believe in continuous learning, innovation, and collaboration. Whether you’re looking to enhance your IT infrastructure, build custom software, or streamline your business processes, Aptxlabs is here to help.
+
+## 👨‍💻 Meet the Founder
+
+Aptxlabs was founded by <a href="https://faisaldarbar.com" target="_blank" rel="noopener noreferrer"><strong>Faisal Darbar</strong></a>, a seasoned IT professional, software developer, and business consultant with a passion for solving complex problems through technology.
+
+Faisal brings over a decade of experience in:
+
+- IT infrastructure and networking  
+- Custom software and web development  
+- Cloud solutions and automation  
+- Business, accounting, and tax consulting  
+- Content creation and digital strategy  
+
+Certified by Microsoft and driven by curiosity, Faisal is also an avid homelab enthusiast, aspiring author, and creator. His hands-on approach ensures that every Aptxlabs project is rooted in both technical excellence and business insight.
+
+You can learn more about his background at <a href="https://faisaldarbar.com" target="_blank" rel="noopener noreferrer">faisaldarbar.com</a>.
 
 ---
 
-### **Want to Collaborate?**  
-🚀 **Let’s build something great together.** Contact us today!
+## 🚀 Let’s Build Together
+
+Want to Collaborate?  
+Let’s build something great together. Contact us today!
