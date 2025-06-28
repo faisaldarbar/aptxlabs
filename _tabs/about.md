@@ -36,5 +36,10 @@ You can learn more about his background at <a href="https://faisaldarbar.com" ta
 
 ## 🚀 Let’s Build Together
 
-Want to Collaborate?  
-Let’s build something great together. Contact us today!
+Get in touch using the links!
+
+<a href="/blog" style="text-decoration: none;">
+        <button style="padding: 0.85rem 1.7rem; font-size: 1rem; background-color: #007BFF; color: white; border: none; border-radius: 6px; cursor: pointer;">
+          Visit the Blog
+        </button>
+      </a>
