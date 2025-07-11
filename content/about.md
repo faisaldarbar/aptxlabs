@@ -15,8 +15,6 @@ At **Aptxlabs**, we are passionate about leveraging technology to **optimize bus
 - 📊 Business Accounting and Taxation
 - 🎥 Content Creation and Videography
 
-We believe in continuous learning, innovation, and collaboration. Whether you’re looking to enhance your IT infrastructure, build custom software, or streamline your business processes, Aptxlabs is here to help.
-
 ---
 
 ## 🚀 Let’s Build Together
