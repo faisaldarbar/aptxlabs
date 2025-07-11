@@ -23,6 +23,6 @@ We believe in continuous learning, innovation, and collaboration. Whether you’
 
 {{< aboutcta >}}
 
-Get in touch using the links!
+Thanks for being part of the journey!
 
 {{< faisaldarbarbutton >}}
