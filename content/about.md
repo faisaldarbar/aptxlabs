@@ -3,7 +3,7 @@ title = "About"
 
 +++
 
-{{< homeimage >}}
+{{< aboutimage >}}
 
 At **Aptxlabs**, we are passionate about leveraging technology to **optimize businesses, drive innovation, and create impactful digital solutions**. 
 
