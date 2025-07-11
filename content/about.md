@@ -9,7 +9,7 @@ title = "About"
 
 At **Aptxlabs**, we are passionate about leveraging technology to **optimize businesses, drive innovation, and create impactful digital solutions**. 
 
-## ☁️ Our Expertise Spans Across  
+## ☁️ Our Expertise  
 
 - 🖥 IT Infrastructure and Cybersecurity
 - 💻 Software and Web Development
