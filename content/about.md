@@ -25,4 +25,4 @@ We believe in continuous learning, innovation, and collaboration. Whether you’
 
 Get in touch using the links!
 
-{{< blogbutton >}}
+{{< faisaldarbarbutton >}}
