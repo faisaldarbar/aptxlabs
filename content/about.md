@@ -5,6 +5,8 @@ title = "About"
 
 {{< aboutimage >}}
 
+## 👋 Welcome
+
 At **Aptxlabs**, we are passionate about leveraging technology to **optimize businesses, drive innovation, and create impactful digital solutions**. 
 
 ## ☁️ Our Expertise Spans Across  
