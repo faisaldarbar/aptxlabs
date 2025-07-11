@@ -8,6 +8,9 @@ googleAnalytics = "G-MX459CF92X"
 [pagination]
   pagerSize = 10
 
+[pagination]
+  pagerSize = 10
+
 [params]
   env = "production"
   author = "Aptxlabs"
@@ -17,9 +20,14 @@ googleAnalytics = "G-MX459CF92X"
   ShowPostNavLinks = true
   showBreadCrumbs = true
   showToc = true
-  mainSections = []
+  mainSections = ["posts"]
   ShowSearch = true
   ShowSocialIcons = true
+  ShowCodeCopyButtons = true
+  ShowShareButtons = true
+  ShowPostIcons = true
+  ShowFeaturedImageInList = true
+  ShowFeaturedImageInPost = true
   images = ["/images/og-image.png"]
 
 [params.cover]
