@@ -5,7 +5,9 @@ title = "About"
 
 {{< homeimage >}}
 
-At **Aptxlabs**, we are passionate about leveraging technology to **optimize businesses, drive innovation, and create impactful digital solutions**. Our expertise spans across:  
+At **Aptxlabs**, we are passionate about leveraging technology to **optimize businesses, drive innovation, and create impactful digital solutions**. 
+
+## ☁️ Our Expertise Spans Across  
 
 - 🖥 IT Infrastructure and Cybersecurity
 - 💻 Software and Web Development
@@ -26,6 +28,8 @@ You can learn more about his background at {{< faisaldarbarlink >}}.
 ---
 
 ## 🚀 Let’s Build Together
+
+{{< aboutcta >}}
 
 Get in touch using the links!
 
