@@ -17,8 +17,6 @@ At **Aptxlabs**, we are passionate about leveraging technology to **optimize bus
 - 📊 Business Accounting and Taxation
 - 🎥 Content Creation and Videography
 
----
-
 ## 🚀 Let’s Build Together
 
 {{< aboutcta >}}
