@@ -28,7 +28,6 @@ googleAnalytics = "G-MX459CF92X"
 
 [params.cover]
     responsiveImages = false
-    linkFullImages = true
 
 [[params.socialIcons]]
   name = "facebook"
