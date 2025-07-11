@@ -1,0 +1,79 @@
+baseURL = "https://aptxlabs.com/"
+languageCode = "en-us"
+title = "Aptxlabs"
+theme = "PaperMod"
+
+googleAnalytics = "G-MX459CF92X"
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  env = "production"
+  author = "Ahlan Bags"
+  defaultTheme = "auto"
+  showReadingTime = true
+  showCodeCopyButtons = true
+  ShowPostNavLinks = true
+  showBreadCrumbs = true
+  showToc = true
+  mainSections = []
+  ShowSearch = true
+  ShowSocialIcons = true
+
+[[params.socialIcons]]
+  name = "facebook"
+  url = "https://facebook.com/aptxlabs"
+
+[[params.socialIcons]]
+  name = "youtube"
+  url = "https://www.youtube.com/@Aptxlabs"
+
+[[params.socialIcons]]
+  name = "instagram"
+  url = "https://www.instagram.com/aptxlabs"
+
+[[params.socialIcons]]
+  name = "whatsapp"
+  url = "https://wa.me/919765011119"
+
+[[params.socialIcons]]
+  name = "at"
+  url = "mailto:faisal@faisaldarbar.com"
+
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 3
+  
+  [[menu.main]]
+    name = "Search"
+    url = "/search/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Archives"
+    url = "/archives/"
+    weight = 5
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = [ "HTML", "RSS", "JSON" ]
+
+
