@@ -51,6 +51,9 @@ googleAnalytics = "G-MX459CF92X"
   name = "at"
   url = "mailto:faisal@faisaldarbar.com"
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
 
 [menu]
   [[menu.main]]
@@ -77,6 +80,16 @@ googleAnalytics = "G-MX459CF92X"
     name = "Archives"
     url = "/archives/"
     weight = 5
+
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 6
+
+  [[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 7
 
 [markup]
   [markup.goldmark]
