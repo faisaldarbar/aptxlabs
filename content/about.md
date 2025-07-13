@@ -21,6 +21,6 @@ At **Aptxlabs**, we are passionate about leveraging technology to **optimize bus
 
 {{< aboutcta >}}
 
-Thanks for being part of the journey.
+Thanks for being part of the journey!
 
 {{< faisaldarbarbutton >}}
