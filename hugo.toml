@@ -1,7 +1,7 @@
 baseURL = "https://aptxlabs.com/"
 languageCode = "en-us"
 title = "Aptxlabs"
-theme = "PaperMod"
+theme = "hugo-papermodest"
 
 googleAnalytics = "G-MX459CF92X"
 
